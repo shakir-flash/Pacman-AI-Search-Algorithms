@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/VYJWdQPu)
+# PacmanAI
+
+Project Link :
+http://ai.berkeley.edu/project_overview.html
+
+Sections Of the Project Covered are:
+
+Search:
+Utilize depth-first, breadth-first, uniform cost, and A* search methodologies. These approaches are instrumental in addressing navigation and traveling salesman quandaries within the Pacman environment.
+
+
+Multi-Agent Search:
+Within the realm of Classic Pacman, encounter both adversarial and stochastic search conundrums. Execute multiagent minimax and expectimax algorithms, alongside crafting evaluation criteria.
