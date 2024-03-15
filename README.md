@@ -10,4 +10,6 @@ Utilize depth-first, breadth-first, uniform cost, and A* search methodologies. T
 
 
 Multi-Agent Search:
-Within the realm of Classic Pacman, encounter both adversarial and stochastic search conundrums. Execute multiagent minimax and expectimax algorithms, alongside crafting evaluation criteria.
+Within the realm of Classic Pacman, encounter both adversarial and stochastic search conundrums. 
+
+Executed adversarial search algorithms like `Reflex agent`, `Minimax Algorithm`, `Alpha Beta Pruning`, `Expectimax Search` and `Better Evaluation Function` algorithms in the `multiAgents.py` file.
