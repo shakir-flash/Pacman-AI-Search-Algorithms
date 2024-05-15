@@ -1,5 +1,8 @@
 # PacmanAI- Search Algorithms Implementation
 
+![image](https://github.com/shakir-flash/Pacman-AI-Search-Algorithms/assets/59859522/1713f7f3-8525-4444-835a-1d1364b37617)
+
+
 Project Link :
 http://ai.berkeley.edu/project_overview.html
 
