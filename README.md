@@ -6,6 +6,22 @@ http://ai.berkeley.edu/project_overview.html
 ## Introduction
 This project aims to implement search algorithms to assist Pac-Man in navigating maze-like environments efficiently. The objective is to develop general search algorithms and apply them to various Pac-Man scenarios, enabling Pac-Man to find paths to specific locations and collect food optimally.
 
+## How to Use
+1. **Cloning the Repository:**
+    - Clone the assignment repository using the provided GitHub classroom link.
+    - Open a terminal and run the following command:
+      ```
+      git clone https://github.com/shakir-flash/Pacman-AI-Search-Algorithms.git
+      ```
+
+2. **Running Pac-Man:**
+    - Navigate to the cloned directory.
+    - Change directory to the `search` folder.
+    - Run Pac-Man using the following command:
+      ```python
+      python pacman.py
+      ```
+
 ## Complete Details of All Search Algorithms
 1. **Depth-First Search (DFS):**
     - Implementation: `depthFirstSearch` function in `search.py`.
