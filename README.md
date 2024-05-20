@@ -1,4 +1,5 @@
 # PacmanAI- Search Algorithms Implementation
+Done as part of INFO-550- Artificial Intelligence course the the University of Arizona
 
 ![image](https://github.com/shakir-flash/Pacman-AI-Search-Algorithms/assets/59859522/1713f7f3-8525-4444-835a-1d1364b37617)
 
